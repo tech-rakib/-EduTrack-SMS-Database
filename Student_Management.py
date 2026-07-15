@@ -8,7 +8,7 @@ import hashlib
 DB_CONFIG = { 
     "host": "localhost", 
     "user": "root", 
-    "password": "Rakib 125043",   # change if your MySQL root has a password 
+    "password": "Give password for connect ",   # change if your MySQL root has a password 
     "database": "student_db", 
     "charset": "utf8mb4", 
     "cursorclass": pymysql.cursors.DictCursor 
